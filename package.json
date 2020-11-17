@@ -1,0 +1,20 @@
+{
+  "name": "authy-verify",
+  "version": "2.0.0",
+  "description": "'npm install authy-verify --save'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conutik/authy-verify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conutik/authy-verify/issues"
+  },
+  "homepage": "https://github.com/Conutik/authy-verify#readme",
+  "dependencies": {}
+}
